@@ -8,4 +8,4 @@
 
 ### General Information about Project
 
-#### * VIPER design architecture <br/> * Firebase usage <br/> * Webkit usage <br/> * UICollectionView <br/> AVFoundation 
+#### * VIPER design architecture <br/> * Firebase usage <br/> * Webkit usage <br/> * UICollectionView <br/> * AVFoundation 
